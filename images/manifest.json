@@ -7,5 +7,87 @@
             "All images loaded in tarthur-TIFF/test project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://tarthur-TIFF.github.io/test/images/1993-FOF-Poster_2016-003-03_0018/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "1993-FOF-Poster_2016-003-03_0018"
+                ]
+            },
+            "height": 1440,
+            "width": 1080,
+            "items": [
+                {
+                    "id": "https://tarthur-TIFF.github.io/test/images/1993-FOF-Poster_2016-003-03_0018/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://tarthur-TIFF.github.io/test/images/1993-FOF-Poster_2016-003-03_0018/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://tarthur-TIFF.github.io/test/images/1993-FOF-Poster_2016-003-03_0018/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 34,
+                                                "height": 45
+                                            },
+                                            {
+                                                "width": 68,
+                                                "height": 90
+                                            },
+                                            {
+                                                "width": 135,
+                                                "height": 180
+                                            },
+                                            {
+                                                "width": 270,
+                                                "height": 360
+                                            },
+                                            {
+                                                "width": 540,
+                                                "height": 720
+                                            },
+                                            {
+                                                "width": 1080,
+                                                "height": 1440
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 1080,
+                                        "id": "https://tarthur-TIFF.github.io/test/images/1993-FOF-Poster_2016-003-03_0018",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 1440
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://tarthur-TIFF.github.io/test/images/1993-FOF-Poster_2016-003-03_0018/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
